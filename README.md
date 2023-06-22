@@ -5,7 +5,7 @@
             <b>
             Hey!
         <br>
-            I'm davt3r, programming and web3 fanatic.
+            I'm davt3r, coder and web3 fanatic.
             </b>
         <br>
         <br>
